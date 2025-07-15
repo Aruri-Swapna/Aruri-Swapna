@@ -19,14 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 💼 Professional Snapshot
-
 With **5+ years of experience** in product and project management, I specialize in turning ideas into **scalable, user-focused solutions**.  
 I work at the intersection of **business strategy**, **design thinking**, and **agile execution** to drive meaningful outcomes.
 
----
-
-## 🧠 What I'm Passionate About
 
 I love solving real-world problems through **clean, automated solutions** — especially when powered by the latest in **AI**, **automation**, and **no-code platforms**.
 
